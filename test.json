@@ -1,6 +1,20 @@
 {
   "type": "force",
- 
+  "categories": [
+    {
+      "name": "HTMLElement",
+      "keyword": {
+
+      },
+      "base": "HTMLElement"
+    },
+    {
+      "name": "WebGL",
+      "keyword": {
+
+      },
+      "base": "WebGLRenderingContext"
+    },
     {
       "name": "SVG",
       "keyword": {
@@ -579,8 +593,8 @@
       "category": 4
     },
     {
-      "name": "主题词",
-      "value": 200,
+      "name": "ShadowRoot",
+      "value": 1,
       "category": 4
     },
     {
@@ -1899,8 +1913,8 @@
       "category": 2
     },
     {
-      "name": "SVGFETurbulenceElement",
-      "value": 1,
+      "name": "主题词1",
+      "value": 10,
       "category": 2
     },
     {
