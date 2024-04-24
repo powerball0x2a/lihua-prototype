@@ -1,20 +1,6 @@
 {
   "type": "force",
-  "categories": [
-    {
-      "name": "HTMLElement",
-      "keyword": {
-
-      },
-      "base": "HTMLElement"
-    },
-    {
-      "name": "WebGL",
-      "keyword": {
-
-      },
-      "base": "WebGLRenderingContext"
-    },
+ 
     {
       "name": "SVG",
       "keyword": {
